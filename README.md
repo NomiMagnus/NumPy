@@ -1,8 +1,12 @@
 # NumPy - RGB Histogram
 View the RBG diagram of an image using `NumPy` library.
 
+## Overview
 This project demonstrates how to generate an RGB histogram from an image using Python.
 The histogram represents the frequency distribution of pixel intensities for each color channel (Red, Green, Blue) in the image.
+Example:
+![image](https://github.com/user-attachments/assets/dadadab6-be05-45b7-81a5-aaf5bfb65bc4)
+
 
 ## Prerequisites
 Before running the code, ensure you have Python installed on your system. The required libraries are specified in the requirements.txt file.
