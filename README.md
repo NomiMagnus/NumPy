@@ -15,7 +15,6 @@ Before running the code, ensure you have Python installed on your system. The re
 1. Clone the repository:
    ```cmd
     git clone https://github.com/NomiMagnus/NumPy.git
-    cd numpy
    ```
 2. Install the required libraries:
     ```python
